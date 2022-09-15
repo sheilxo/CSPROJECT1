@@ -2,3 +2,15 @@
 Purpose: Utilizing various tools in C++ including commenting, declaring variables,
 getting user input from keyboard, and generating output to terminal screen. It is also practice for pushing/committing to Github
 */
+
+#include iostream
+//iostream is the service used to input and output information
+#include string
+//in the following code, string will be used, so the libary must be imported
+
+using namespace std;
+
+int main ()
+{
+    return 0;
+}
