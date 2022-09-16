@@ -30,6 +30,12 @@ int main ()
     cin >> e;
     cout << "\nYour value is: " << e << "\n";
 
+    bool f;
+    cout <<"Enter a value for the boolean (whole numbers 1 or 0): \n";
+    cin >> f;
+    cout << "\nYour value is: " << f << "\n";
+
+
     //for this group of data types, I am asking the user to input a type of integer, and then confirming
     //the input by outputting the same variable into the terminal
 
