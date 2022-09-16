@@ -25,6 +25,10 @@ int main ()
     cin >> d;
     cout << "\nYour value is: "  << d << "\n" ;
 
+    char e;
+    cout << "enter a value for the char: \n";
+    cin >> e;
+    cout << "\nYour value is: " << e << "\n";
 
     //for this group of data types, I am asking the user to input a type of integer, and then confirming
     //the input by outputting the same variable into the terminal
