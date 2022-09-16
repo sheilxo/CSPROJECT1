@@ -20,7 +20,11 @@ int main ()
     cin >> a;
     cout << "\nYour value is: "  << a << "\n" ;
     
-    
+    double d;
+    cout << "enter a decimal value for d: \n";
+    cin >> d;
+    cout << "\nYour value is: "  << d << "\n" ;
+
 
     //for this group of data types, I am asking the user to input a type of integer, and then confirming
     //the input by outputting the same variable into the terminal
