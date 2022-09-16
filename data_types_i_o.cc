@@ -13,5 +13,20 @@ using namespace std;
 
 int main ()
 {
+    int a;
+    int b;
+    int c;
+    cout << "enter a value for a, b, or c: \n";
+    cin >> a;
+    cout << "\nYour value is: "  << a << "\n" ;
+    
+    
+
+    //for this group of data types, I am asking the user to input a type of integer, and then confirming
+    //the input by outputting the same variable into the terminal
+
+
+    
+    
     return 0;
 }
