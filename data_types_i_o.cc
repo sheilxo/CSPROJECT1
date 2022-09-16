@@ -3,33 +3,4 @@ Purpose: Utilizing various tools in C++ including commenting, declaring variable
 getting user input from keyboard, and generating output to terminal screen. It is also practice for pushing/committing to Github
 */
 
-#include <iostream>
-//iostream is the service used to input and output information
-#include <string>
-//in the following code, string will be used, so the libary must be imported
 
-using namespace std;
-
-int main ()
-{
-    int a;
-    cout << "enter a value:  \n";
-    cin >> a;
-    cout << "\nYour value is: " << a;
-    return 0;
-    /*int b;
-    cout << "enter a value for b: ";
-    cin >> a
-    cout <<" the value entered for b: ";
-
-    int c;
-    cout << "enter a value for c: ";
-    cin >> c
-    cout << "the value entered for c:"*/
-
-    
-
-    
-    
-
-}
